@@ -1,0 +1,7 @@
+site_name: algo Docs
+nav:
+    - Home: index.md
+    - First: first.md
+    
+theme:
+    name: 'material'
